@@ -9,64 +9,6 @@
     
     
     
-    
-    
-    
-    
-    
-    
-
-    
-
-    <html lang="en">
-      <head>
-        <meta name="pageKey" content="d_homepage-guest-home">
-<!---->        <meta name="locale" content="en_US">
-        <meta id="config">
-        <link rel="canonical" href="https://in.linkedin.com/">
-          <link rel="alternate" hreflang="de" href="https://de.linkedin.com/">
-          <link rel="alternate" hreflang="en-IE" href="https://ie.linkedin.com/">
-          <link rel="alternate" hreflang="en-US" href="https://www.linkedin.com/">
-          <link rel="alternate" hreflang="pt" href="https://pt.linkedin.com/">
-          <link rel="alternate" hreflang="en-IL" href="https://il.linkedin.com/">
-          <link rel="alternate" hreflang="ms-MY" href="https://my.linkedin.com/">
-          <link rel="alternate" hreflang="en-IN" href="https://in.linkedin.com/">
-          <link rel="alternate" hreflang="es-BO" href="https://bo.linkedin.com/">
-          <link rel="alternate" hreflang="en-ZA" href="https://za.linkedin.com/">
-          <link rel="alternate" hreflang="zh-CN" href="https://cn.linkedin.com/">
-          <link rel="alternate" hreflang="en-AU" href="https://au.linkedin.com/">
-          <link rel="alternate" hreflang="id" href="https://id.linkedin.com/">
-          <link rel="alternate" hreflang="en-NG" href="https://ng.linkedin.com/">
-          <link rel="alternate" hreflang="de-CH" href="https://ch.linkedin.com/">
-          <link rel="alternate" hreflang="ja-JP" href="https://jp.linkedin.com/">
-          <link rel="alternate" hreflang="en-ZW" href="https://zw.linkedin.com/">
-          <link rel="alternate" hreflang="en-JM" href="https://jm.linkedin.com/">
-          <link rel="alternate" hreflang="es-SV" href="https://sv.linkedin.com/">
-          <link rel="alternate" hreflang="ms" href="https://my.linkedin.com/">
-          <link rel="alternate" hreflang="es-GT" href="https://gt.linkedin.com/">
-          <link rel="alternate" hreflang="en" href="https://www.linkedin.com/">
-          <link rel="alternate" hreflang="es-CR" href="https://cr.linkedin.com/">
-          <link rel="alternate" hreflang="it" href="https://it.linkedin.com/">
-          <link rel="alternate" hreflang="es-CL" href="https://cl.linkedin.com/">
-          <link rel="alternate" hreflang="es" href="https://es.linkedin.com/">
-          <link rel="alternate" hreflang="zh" href="https://cn.linkedin.com/">
-          <link rel="alternate" hreflang="es-CO" href="https://co.linkedin.com/">
-          <link rel="alternate" hreflang="es-PE" href="https://pe.linkedin.com/">
-          <link rel="alternate" hreflang="ar" href="https://ae.linkedin.com/">
-          <link rel="alternate" hreflang="en-NZ" href="https://nz.linkedin.com/">
-          <link rel="alternate" hreflang="pt-PT" href="https://pt.linkedin.com/">
-          <link rel="alternate" hreflang="es-PA" href="https://pa.linkedin.com/">
-          <link rel="alternate" hreflang="ja" href="https://jp.linkedin.com/">
-          <link rel="alternate" hreflang="en-SG" href="https://sg.linkedin.com/">
-          <link rel="alternate" hreflang="fr-FR" href="https://fr.linkedin.com/">
-          <link rel="alternate" hreflang="ro" href="https://ro.linkedin.com/">
-          <link rel="alternate" hreflang="en-GB" href="https://uk.linkedin.com/">
-          <link rel="alternate" hreflang="nl" href="https://nl.linkedin.com/">
-          <link rel="alternate" hreflang="en-KE" href="https://ke.linkedin.com/">
-          <link rel="alternate" hreflang="no" href="https://no.linkedin.com/">
-          <link rel="alternate" hreflang="en-CA" href="https://ca.linkedin.com/">
-          <link rel="alternate" hreflang="ru" href="https://ru.linkedin.com/">
-          <link rel="alternate" hreflang="en-GH" href="https://gh.linkedin.com/">
           <link rel="alternate" hreflang="es-PR" href="https://pr.linkedin.com/">
           <link rel="alternate" hreflang="fr" href="https://fr.linkedin.com/">
           <link rel="alternate" hreflang="es-DO" href="https://do.linkedin.com/">
